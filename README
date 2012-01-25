@@ -1,5 +1,5 @@
 Bootstrap Deb
 =============
 I've been writing a few debootstrap scripts recently for some embedded
-devices, so I thought I would generalise it.  This is where it will happen.
+devices, so I thought I would make it more generic.  This is where it will happen.
 
